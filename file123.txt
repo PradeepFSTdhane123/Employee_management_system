@@ -1,0 +1,7 @@
+Employee ID:123
+Employee Name     :dhane 
+Father's Name     :laxman
+Employee Contact  :8767623779
+Email Information :dhanepradeeplaxman
+Employee position :2
+Employee Salary   :23
